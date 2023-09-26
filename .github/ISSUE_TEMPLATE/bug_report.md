@@ -1,38 +1,13 @@
----
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
+#Program compile bug issue
 
----
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+1. 프로젝트 제목
+2. 개발환경, 도구
+3. 사용언어
+4. 사용 데이터베이스
+5. 프로젝트 버전
+6. 오류 기능 이름
+7. 오류 파일 항목
+8. consol 에러 메시지
+9. 예상 오류 원인
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
-
-**Expected behavior**
-A clear and concise description of what you expected to happen.
-
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
-
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
-
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
